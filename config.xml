@@ -5,7 +5,7 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id ="com.phonegap.app8"
 version = "1.0.0">
 
-<name>app8 Geolocalización en Google Maps</name>
+<name>Geolocalización en Google Maps</name>
 
 <description>
 Muestra la ubicación del dispositivo de acuerdo al GPS y en el mapa de Google Maps
